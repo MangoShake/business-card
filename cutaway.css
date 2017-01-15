@@ -72,31 +72,39 @@ div.about {
 	margin-top: 20px;
 }
 
+.short {
+	width: 50%;
+}
+
 .icon {
 	display: inline-block;
-	width: 40px;
-	height: 40px;
+	width: 30px;
+	height: 30px;
 	background: url("7.png");
+	vertical-align: middle;
 }
 
 .icon-phone {
-	background-position: -205px -396px;
+	background-position: -210px -402px;
 }
 
 .icon-mail {
-	background-position: -110px -160px;
+	background-position: -115px -163px;
 }
 
 .icon-vk {
-	background-position: -14px -14px;
+	background-position: -20px -20px;
 }
 
 .icon-fb {
-	background-position: -110px -14px;
+	background-position: -116px -20px;
+}
+
+.icon-skype {
+	background-position: -163px -116px;
 }
 
 a {
 	text-decoration: none;
 	color: rgb(50, 30, 30);
-	padding-top: -10px;
 }
