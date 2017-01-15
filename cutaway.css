@@ -121,3 +121,7 @@ a:hover {
 	color: rgb(61, 61, 61);
 	text-decoration: underline;
 }
+
+.acute {
+	margin-left: -0.55em;
+}
