@@ -1,0 +1,102 @@
+body {
+	max-height: 1800px;
+}
+
+.central-block {
+	width: 34%;
+	margin-left: 33%;
+	padding: 1%;
+}
+
+.central-block > div {
+	text-align: center;
+}
+
+.photo {
+	border-radius: 200px;
+	width: 55%;
+	height: 55%;
+}
+
+.weave {
+	width: 45%;
+}
+
+p {
+	padding: 0%;
+	margin: 1%;
+}
+
+p.name {
+	font-size: 35px;
+	font-family: serif;
+	margin: 3% 0;
+}
+
+p.occupation {
+	font-size: 80%;
+	margin: 3% 0;
+	font-style: italic;
+}
+
+.top {
+	margin-bottom: 5%;
+}
+
+div.about {
+	text-align: left;
+	margin: 5% 10%;
+	font-family: sans-serif;
+}
+
+.big-letter {
+	float: left;
+	font-size: 40px;
+	line-height: 38px;
+}
+
+.qestion {
+	font-weight: bold;
+}
+
+.lower {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.second {
+	width: 60%;
+}
+
+.contact {
+	margin-top: 20px;
+}
+
+.icon {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background: url("7.png");
+}
+
+.icon-phone {
+	background-position: -205px -396px;
+}
+
+.icon-mail {
+	background-position: -110px -160px;
+}
+
+.icon-vk {
+	background-position: -14px -14px;
+}
+
+.icon-fb {
+	background-position: -110px -14px;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(50, 30, 30);
+	padding-top: -10px;
+}
