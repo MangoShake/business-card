@@ -55,6 +55,12 @@ div.about {
 	line-height: 38px;
 }
 
+.smile {
+	width: 20px;
+	height: auto;
+	vertical-align: middle;
+}
+
 .qestion {
 	font-weight: bold;
 }
@@ -94,6 +100,8 @@ div.about {
 
 .icon-vk {
 	background-position: -20px -20px;
+	float: left;
+	margin-right: 6px;
 }
 
 .icon-fb {
@@ -106,5 +114,10 @@ div.about {
 
 a {
 	text-decoration: none;
-	color: rgb(50, 30, 30);
+	color: black;
+}
+
+a:hover {
+	color: rgb(61, 61, 61);
+	text-decoration: underline;
 }
